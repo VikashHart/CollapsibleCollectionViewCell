@@ -1,4 +1,4 @@
 # CollapsibleCollectionViewCell
-Collapsible Collection View Cell Refined Example
+Refined Collapsible Collection View Cell Example
 
-How to programmatically create a collapsible collectionView cell based on the [stormotion](https://github.com/Stormotion-Mobile/ExpandableCollectionViewCell) example
+How to **Programmatically** create a collapsible collectionView cell based on the [stormotion](https://github.com/Stormotion-Mobile/ExpandableCollectionViewCell) example
